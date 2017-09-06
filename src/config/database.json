@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "127.0.0.1",
+        "database": "database",
+        "user": "root",
+        "password": "password",
+        "charset": "utf8"
+    }
+}
